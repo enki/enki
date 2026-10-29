@@ -1,7 +1,5 @@
 ## Hi there, I'm Paul Bohm 👋
 
-Website · X / [@paulbohm](https://x.com/paulbohm) · New York
-
 I'm building a new programming language and runtime for the machine age.
 My key interest is in how the design of systems changes what people and machines can do together.
 
@@ -27,3 +25,5 @@ I'm an engineer and founder with a background in distributed systems and compute
 ## Writing
 
 I write [Networks and Value](https://bohm.com), exploring the connections between technology, economics, and coordination.
+Follow me on [@paulbohm](https://x.com/paulbohm).
+
