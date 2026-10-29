@@ -1,10 +1,5 @@
 ## Hi there, I'm Paul Bohm 👋
 
-I'm building a new programming language and runtime for the machine age.
-My key interest is in how the design of systems changes what people and machines can do together.
-
-## Background
-
 I'm an engineer and founder with a background in distributed systems and computer security.
 
 - Dropbox — Designed and implemented the LAN Sync peer-to-peer protocol as an early engineer.
