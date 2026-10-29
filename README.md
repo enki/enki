@@ -25,5 +25,6 @@ I'm an engineer and founder with a background in distributed systems and compute
 ## Writing
 
 I write [Networks and Value](https://bohm.com), exploring the connections between technology, economics, and coordination.
+
 Follow me on [@paulbohm](https://x.com/paulbohm).
 
